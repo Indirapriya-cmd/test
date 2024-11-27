@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    /* border:2px solid red; */ */
+
+}
+.navbar{
+    background-color:#e3f2fd;
+}
+.navbar-brand{
+   width:10%;
+}
+
+ .bgimg{
+    background-image:url("https://img.freepik.com/premium-photo/fresh-fruits_87394-1678.jpg?ga=GA1.1.1685356523.1730789149&semt=ais_hybrid");
+    width:100vw;
+    height:70vh;
+    background-position: center;
+    background-size: cover;
+ }
+ .heading{
+    font-size: 45px;
+    color:royalblue;
+    text-align: center;
+ }
+ .hbtn{
+    text-align: center;
+    font-size: 20px;
+    color:white;
+    
+ }
+ /* About */
+ .main-head{
+   font-size: 40px;
+   color:royalblue;
+   text-align: center;
+   
+ }
+ .hist{
+   font-size: 40px;
+   color:royalblue;
+   text-align: center;
+   text-decoration: underline 1px;
+ }
+ .des{
+   font-size: 20px;
+   color:green;
+  line-height: 30px;
+ }
+ .d-block{
+   aspect-ratio: 2/2;
+   width: 100%;
+ }
+ 
+ /* products */
+ .card-img-top{
+   aspect-ratio: 2/2;
+ }
+ .card-title{
+   color:red;
+ }
+ /* payment */
+
+ #basic-addon1
+ {
+background-color:azure;
+font-size: 20px;
+ }
+ #basic-addon1:hover{
+   color:red;
+   background-color: beige;
+ }
+ .form-label{
+   color:red;
+ }
+ .fhead{
+   font-size: 20px;
+ }
+ .footer{
+  background-color:cornsilk;
+ }
+ .f-content h6{
+ color:white;
+ text-decoration: underline 2px solid olive;
+ }
+ .f-content p{
+color:orchid;
+ }
+ .ficons{
+  color:olive;
+  font-size: 20px;
+ }
+ .ficons .ic:hover{
+  color:white;
+  transform: rotate(180deg);
+ }
